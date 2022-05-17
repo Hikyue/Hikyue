@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Games
 - 🌱 I’m currently learning ... Games
 - 💞️ I’m looking to collaborate on ... Games
-- 📫 How to reach me ...I am Hikyue!
+- 📫 How to reach me ... I am Hikyue!
 
 <!---
 Hikyue/Hikyue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

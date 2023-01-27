@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hikyue
-- 👀 I’m interested in ... Games
-- 🌱 I’m currently learning ... Games
-- 💞️ I’m looking to collaborate on ... Games
+- 👀 I’m interested in ... Collecting
+- 🌱 I’m currently learning ... Mastery
+- 💞️ I’m looking to collaborate on ... leave me in Peace from you!
 - 📫 How to reach me ... I am Hikyue!
 
 <!---

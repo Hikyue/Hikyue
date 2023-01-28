@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hikyue
 - 👀 I’m interested in ... Collecting!
 - 🌱 I’m currently learning ... Mastery!
-- 💞️ I’m looking to collaborate on ... Carrying Teams!
+- 💞️ I’m looking to collaborate on ... Supporting Teams!
 - 📫 How to reach me ... I'll find you!
 
 <!---

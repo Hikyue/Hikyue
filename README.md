@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HerodesHolger
+- 👋 Hi, I’m Hikyue
 - 👀 I’m interested in ... Collecting!
 - 🌱 I’m currently learning ... Mastery!
 - 💞️ I’m looking to collaborate on ... Supporting Teams!

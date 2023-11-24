@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hikyue
-- 👀 I’m interested in ... Collecting!
+- 👀 I’m interested in ... Code!
 - 🌱 I’m currently learning ... Mastery!
 - 💞️ I’m looking to collaborate on ... Supporting Teams!
-- 📫 How to reach me ... Here I Am!
+- 📫 How to reach me ... so do I!
 
 <!---
 Hikyue/Hikyue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hikyue
-- 👀 I’m interested in ... Code!
+- 👀 I’m interested in ... curiousities!
 - 🌱 I’m currently learning ... Mastery!
 - 💞️ I’m looking to collaborate on ... Supporting Teams!
 - 📫 How to reach me ... so do I!
